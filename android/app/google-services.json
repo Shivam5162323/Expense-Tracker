@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521339235788",
+    "project_id": "msgs-2d55c",
+    "storage_bucket": "msgs-2d55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521339235788:android:d8962eb624e624350e0169",
+        "android_client_info": {
+          "package_name": "com.example.exp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAYf_EqaHl15y4bPqv-yCGjfhN_qfbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521339235788:android:2f470c57ffa5c5590e0169",
+        "android_client_info": {
+          "package_name": "com.example.msgs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAYf_EqaHl15y4bPqv-yCGjfhN_qfbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
